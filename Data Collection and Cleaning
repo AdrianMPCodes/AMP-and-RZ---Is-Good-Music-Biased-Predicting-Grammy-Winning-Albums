@@ -1,5 +1,1 @@
-df_copy = pd.read_csv("/content/df_albums.csv")   #read from filepath to save time
-df_artist_info = df_copy[["artist"]].copy()
-df_artist_info["url"] = df_artist_info["artist"].str.replace(' ', '-')
-df_artist_info["url"] = df_artist_info["url"].str.lower()
-df_artist_info
+
