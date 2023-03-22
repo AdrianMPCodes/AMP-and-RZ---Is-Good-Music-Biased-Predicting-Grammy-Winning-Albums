@@ -1,1 +1,6 @@
-# Research Question and Motivation
+Our project's motivation is to explore and expose the possible biases in the music industry through the lens of machine learning. 
+We aim to predict whether an album is a Grammy-winning album or not, and to identify any patterns or trends that may exist in the selection process. 
+By analyzing a large dataset of grammy-winning albums, we hope to shed light on any underlying factors that may influence the decision-making process, 
+such as the artist's gender or perhaps their genre of music. Is critically acclaimed "good" music biased? In order to come to a fiar conclusion, we left 
+the genres out of models but as you will see, we genres to interpret our results. Ultimately, we hope that our project will contribute to
+a more transparent and fair music industry.
